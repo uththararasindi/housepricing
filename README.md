@@ -3,7 +3,7 @@ California House Price Prediction | Random Forest Regressor
 
 This repository contains a machine learning project for predicting California house prices using a Random Forest Regression model. The project covers data preprocessing, model training, evaluation, and prediction.
 
-📝 Project Overview
+--Project Overview--
 
 The goal of this project is to predict the median house value in California based on features such as location, housing age, income, and more.
 
