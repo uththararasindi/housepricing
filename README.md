@@ -19,7 +19,7 @@ Prediction Interface: Built a simple user input system for predicting house pric
 
 The trained Random Forest model achieved strong performance on the test data and was compared against other regression models like Linear Regression, Lasso, Decision Tree and Extra Trees.
 
-Metrics:
+--Metrics--
 
 R² Score: 0.681
 
