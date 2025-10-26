@@ -28,7 +28,7 @@ RMSE: 52722.491
 MAE: 37765.454
 
 
-Tech Stack--
+--Tech Stack--
 
 Python
 
